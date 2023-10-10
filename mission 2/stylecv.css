@@ -1,0 +1,141 @@
+body
+{
+	background-color: white;
+}
+
+main{
+	border: 6px solid blue;
+	margin: auto;
+	width: 60%;
+	height: 1000px;
+
+
+}
+
+
+
+
+.c1
+{
+	border: 3px solid grey;
+	margin-left: 5%;
+	margin-top: 10%;
+	width: 30%;
+	height: 200pxx;
+	float: left;
+	clear: both;
+	padding: 2%;
+
+	
+
+}
+
+.photo
+{
+
+	margin-left: 5%;
+	margin-top: 10%;
+	width: 30%;
+	height: 100pxx;
+	float: Right;
+	padding: 2%;
+}
+
+.c3
+{
+	margin-left: 15%;
+	margin-top: 10%;
+	width: 30%;
+	height: 200pxx;
+	float: left;
+	clear: both;
+	padding: 2%;
+
+}
+.c4
+{
+	margin-left: 5%;
+	margin-top: 10%;
+	width: 30%;
+	height: 100pxx;
+	float: Right;
+	padding: 2%;
+}
+
+.c5
+{
+	margin-left: 15%;
+	margin-top: 10%;
+	width: 30%;
+	height: 200pxx;
+	float: left;
+	clear: both;
+	padding: 2%;
+}
+
+.c7
+{
+	margin-left: 15%;
+	margin-top: 10%;
+	width: 30%;
+	height: 200pxx;
+	float: left;
+	clear: both;
+	padding: 2%;
+}
+
+.c9
+{
+	margin-left: 15%;
+	margin-top: 10%;
+	width: 30%;
+	height: 200pxx;
+	float: left;
+	clear: both;
+	padding: 2%;
+}
+
+.c6
+{
+	margin-left: 5%;
+	margin-top: 10%;
+	width: 30%;
+	height: 100pxx;
+	float: Right;
+	padding: 2%;
+}
+
+.c8
+{
+	margin-left: 5%;
+	margin-top: 10%;
+	width: 30%;
+	height: 100pxx;
+	float: Right;
+	padding: 2%;
+}
+
+.c9
+{
+	margin-left: 5%;
+	margin-top: 10%;
+	width: 30%;
+	height: 100pxx;
+	float: Right;
+	padding: 2%;
+}
+
+.c10
+{
+	margin-left: 5%;
+	margin-top: 10%;
+	width: 30%;
+	height: 100pxx;
+	float: Right;
+	padding: 2%;
+}
+
+
+
+
+
