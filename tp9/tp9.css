@@ -1,0 +1,33 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #003057;
+    text-shadow: 1px 1px 1px black;
+}
+
+button{
+    background-color: #f4faff;
+    border: 2px solid #f4faff;
+    border-radius: 30px;
+    box-shadow: #003057 4px 4px 0 0;
+    color: #003057;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 27px;
+    padding: 0 18px;
+    line-height: 50px;
+    font-family: verdana;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    transition: 0.1s;
+    width: 400px;
+    margin: 10px;
+}
+
+button:hover{
+    background-color: #bae0ff;
+    transform: translate(4px,4px);
+    box-shadow: none;
+    transition: 0.3s;
+}
