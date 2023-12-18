@@ -1,0 +1,55 @@
+body
+{
+	background-color: purple;
+}
+h1
+{
+	color: white;
+	text-align: center;
+	font: verdana;
+}
+.gif1
+{
+	margin: auto;
+	display: block;
+}
+.b1
+{
+	background-color: mediumblue;
+	color: black;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease;
+	width: 150px;
+
+
+}
+.b1:hover {
+	color: red;
+	background-color: black;
+}
+
+div
+{
+	border: 7px solid greenyellow;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	padding: 3%;
+	color: black;
+	border-radius: 10%;
+}
+.groupe1
+{
+	background-color: green;
+}
+
+.groupe2
+{
+	background-color: pink;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+}
+
+.f2{
+    
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 0 auto;
+    position: relative; height:120px;width: 120px; margin-top: px;
+    border-color: red;
+    
+   
+    
+}
+
+.f1{
+    background-color: white;
+    text-align: center;
+    border-radius: 6px;
+    border: 3px solid black;
+    max-width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 200px;
+    transition: transform .1s;
+    margin-top: 25px;
+    border: none;
+    
+    
+
+    
+}
+
+.f1:hover{
+    background-color: grey;
+    transform: scale(1.1);
+    
+}
+
